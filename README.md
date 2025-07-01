@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Tech Stack & Skills
+🚀 Tech Stack & Skills
 
 - **Frontend:** React, Vite, Tailwind CSS, Context API, Axios  
 - **Backend:** Node.js, Express.js, RESTful APIs, Middleware  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Currently Learning
+🧠 Currently Learning
 
 - Advanced Express Middleware (Morgan, Multer, express-session)
 - Express Error Handling & Logging
@@ -23,7 +23,7 @@
 
 ---
 
-## 📫 Let's Connect
+📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/aman-lather-54619135a
 - Portfolio: (coming soon)
